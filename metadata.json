@@ -1,0 +1,5 @@
+{
+  "name": "Daily News in 60 Seconds",
+  "description": "An NLP-powered news application that delivers summarized, real-time news across multiple categories, designed for quick reading and sentiment analysis.",
+  "requestFramePermissions": []
+}
